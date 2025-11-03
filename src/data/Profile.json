@@ -1,7 +1,7 @@
 {
   "meta": {
     "name": "Narayan",
-    "title": "Software Design Engineer - I",
+    "title": "Software Design Engineer - II",
     "socials": [
       { "icon": "linkedin", "link": "#" },
       { "icon": "github", "link": "#" }
@@ -12,46 +12,85 @@
       "title": "Home",
       "content": {
         "greeting": "Hi, I'm Narayan 👋",
-        "tagline": "Frontend Developer | 2 Years of Experience",
-        "intro": "Passionate about building responsive and user-friendly web applications with modern frontend technologies.",
+        "tagline": "Frontend Developer | 2+ Years of Experience",
+        "intro": "I transform complex problems into elegant, user-friendly solutions. Passionate about crafting digital experiences that make an impact.",
+        "stats": [
+          { "number": "2+", "label": "Years Experience" },
+          { "number": "50+", "label": "Projects Completed" },
+          { "number": "10+", "label": "Technologies" }
+        ],
         "cta": [
-          {
-             "text": "📄 Resume", "link": "#"
-          } 
+          { "text": "📄 View Resume", "link": "#" },
+          { "text": "🚀 My Projects", "link": "#projects" }
         ]
       }
     },
     "about": {
-      "title":"About",
-      "content":{
-             "title": "About Me",
-  "bio": "I'm a frontend developer with over 2 years of experience crafting high-performance, scalable web applications using modern frameworks like React, Vite, and Tailwind CSS. My journey started with curiosity, turned into consistent coding, and now drives my passion for building meaningful digital experiences.",
-  "paragraphs": [
-    "In my current role, I’ve built reusable component libraries, integrated APIs, debugged complex issues, and optimized UI performance across multiple client-facing projects. I'm especially strong in JavaScript and love finding the cleanest, most efficient solution to a problem.",
-    "I take pride in writing clean, maintainable code and staying up-to-date with best practices. Whether it's building a finance dashboard, a job automation tool, or a custom ROI calculator, I always aim for user-friendly interfaces and responsive designs.",
-    "Outside of coding, I’m self-motivated and constantly learning — right now I’m leveling up my skills to break into a higher package role. I’m not afraid to get my hands dirty, explore DevOps, or automate a few things if it helps the project scale."
-  ],
-  "technologies": [
-    "React", "JavaScript", "Tailwind CSS", "Vite", "Bootstrap", "HTML5", "CSS3",
-    "Git", "REST APIs", "Postman", "VSCode", "Debugging", "Performance Optimization"
-  ]
+      "title": "About",
+      "content": {
+        "title": "About Me",
+        "bio": "I'm a passionate frontend developer with 2+ years of experience creating high-performance web applications. I specialize in React ecosystem and modern JavaScript frameworks.",
+        "highlights": [
+          {
+            "icon": "⚡",
+            "title": "Fast & Responsive",
+            "description": "Building lightning-fast applications with optimal user experience"
+          },
+          {
+            "icon": "🎨",
+            "title": "UI/UX Focused",
+            "description": "Creating beautiful, intuitive interfaces that users love"
+          },
+          {
+            "icon": "🔧",
+            "title": "Problem Solver",
+            "description": "Turning complex requirements into clean, maintainable code"
+          }
+        ],
+        "technologies": [
+          "React", "JavaScript", "TypeScript", "Next.js", "Node.js", 
+          "Tailwind CSS", "HTML5", "CSS3", "Git", "REST APIs", 
+          "Vite", "Bootstrap", "Postman", "VS Code"
+        ]
       }
-  
-},
+    },
     "experience": {
       "title": "Experience",
       "content": [
         {
-          "company": "Company Name",
-          "role": "Frontend Developer",
-          "duration": "Month Year – Present",
+          "company": "Current Organization",
+          "role": "Software Design Engineer - II",
+          "duration": "Oct 2025 – Present",
           "location": "City, Country",
           "contributions": [
-            "Developed and maintained core components of product/platform",
-            "Translated Figma/UX designs into responsive React components",
-            "Worked with state management (Redux/Context API)",
-            "Improved page performance and load times by X%",
-            "Collaborated across teams using Git, Agile, Jira"
+            "Leading frontend architecture decisions and mentoring junior developers",
+            "Implementing advanced state management solutions",
+            "Optimizing application performance and scalability",
+            "Collaborating with cross-functional teams on product strategy"
+          ]
+        },
+        {
+          "company": "Current Organization",
+          "role": "Software Design Engineer - I",
+          "duration": "Aug 2024 – Sept 2025",
+          "location": "City, Country",
+          "contributions": [
+            "Developed reusable component libraries and design systems",
+            "Integrated complex APIs and implemented advanced features",
+            "Improved application performance by 40% through code optimization",
+            "Participated in code reviews and agile development processes"
+          ]
+        },
+        {
+          "company": "Current Organization",
+          "role": "Software Design Trainee",
+          "duration": "May 2023 – July 2024",
+          "location": "City, Country",
+          "contributions": [
+            "Built responsive web applications using React and modern CSS",
+            "Learned and applied software development best practices",
+            "Collaborated with senior developers on real-world projects",
+            "Gained expertise in debugging and problem-solving"
           ]
         }
       ]
@@ -59,43 +98,101 @@
     "skills": {
       "title": "Skills",
       "content": {
-        "frontend": ["HTML", "CSS", "JavaScript", "React", "Tailwind", "Bootstrap"],
-        "tools": ["Git", "VSCode", "Chrome DevTools", "Postman"],
-        "others": ["REST APIs", "Responsive Design", "Performance Optimization"]
+        "Frontend Technologies": ["HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS", "Bootstrap", "Material-UI"],
+        "Backend & Tools": ["Node.js", "Express", "REST APIs", "Git", "MongoDB", "Postman", "VS Code"],
+        "Development Practices": ["Responsive Design", "Performance Optimization", "Debugging", "Agile Methodology", "Code Review", "Testing"]
       }
     },
     "education": {
       "title": "Education",
-      "content": {
-        "degree": "B.Tech in Computer Science Engineering",
-        "university": "University Name, City",
-        "year": "Year of Graduation"
-      }
-    },
-    "certifications": {
-      "title": "Certifications",
       "content": [
-        { "name": "Frontend Developer Bootcamp", "platform": "Platform" },
-        { "name": "JavaScript Fundamentals", "platform": "Platform" }
+        {
+          "degree": "B.Tech in Computer Science Engineering",
+          "university": "University Name",
+          "year": "2019-2023",
+          "grade": "8.5 CGPA"
+        },
+        {
+          "degree": "Higher Secondary (12th)",
+          "university": "College Name",
+          "year": "2017-2019",
+          "grade": "85%"
+        },
+        {
+          "degree": "Secondary School (10th)",
+          "university": "School Name",
+          "year": "2016-2017",
+          "grade": "90%"
+        }
+      ]
+    },
+     "certifications": {
+    "title": "Certifications",
+    "content": [
+      { 
+        "name": "Java Full Stack Development", 
+        "platform": "Learning Platform",
+        "year": "2023",
+        "skills": [
+          "Java Programming",
+          "Spring Boot",
+          "RESTful APIs",
+          "Database Management",
+          "Frontend Integration",
+          "Project Deployment"
+        ],
+        "highlights": [
+          "Comprehensive full-stack development training",
+          "Hands-on project experience",
+          "Industry-relevant curriculum",
+          "Best practices in software development",
+          "End-to-end application building"
+        ]
+      }
+    ]
+  },
+    "projects": {
+      "title": "Projects",
+      "content": [
+        {
+          "name": "E-Commerce Platform",
+          "description": "Full-stack e-commerce solution with React and Node.js",
+          "technologies": ["React", "Node.js", "MongoDB", "Tailwind CSS"],
+          "github": "#",
+          "live": "#",
+          "image": "/api/placeholder/400/250"
+        },
+        {
+          "name": "Task Management App",
+          "description": "Collaborative task management application with real-time updates",
+          "technologies": ["Next.js", "TypeScript", "Firebase", "Material-UI"],
+          "github": "#",
+          "live": "#",
+          "image": "/api/placeholder/400/250"
+        },
+        {
+          "name": "Weather Dashboard",
+          "description": "Real-time weather application with beautiful data visualization",
+          "technologies": ["React", "Chart.js", "API Integration", "CSS3"],
+          "github": "#",
+          "live": "#",
+          "image": "/api/placeholder/400/250"
+        }
       ]
     },
     "contact": {
       "title": "Contact",
       "content": {
-        "email": "your.email@example.com",
+        "email": "narayanprasad2521@gmail.com",
         "linkedin": "#",
-        "github": "#",
-        "location": "City, Country",
-        "form": {
-          "name": "",
-          "email": "",
-          "message": ""
-        }
+        "github": "https://github.com/narayan2521",
+        "location": "Vijaywada, India",
+        "phone": "+91 8249 692563"
       }
     }
   },
   "ui": {
-    "darkMode": false,
+    "darkMode": true,
     "transition": {
       "duration": 500,
       "easing": "ease-in-out"

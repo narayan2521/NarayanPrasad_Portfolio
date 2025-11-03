@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "name": "Narayan",
+    "title": "Software Design Engineer - I",
+    "socials": [
+      { "icon": "linkedin", "link": "#" },
+      { "icon": "github", "link": "#" }
+    ]
+  },
+  "sections": {
+    "home": {
+      "title": "Home",
+      "content": {
+        "greeting": "Hi, I'm Narayan 👋",
+        "tagline": "Frontend Developer | 2 Years of Experience",
+        "intro": "Passionate about building responsive and user-friendly web applications with modern frontend technologies.",
+        "cta": [
+          {
+             "text": "📄 Resume", "link": "#"
+          } 
+        ]
+      }
+    },
+    "about": {
+      "title":"About",
+      "content":{
+             "title": "About Me",
+  "bio": "I'm a frontend developer with over 2 years of experience crafting high-performance, scalable web applications using modern frameworks like React, Vite, and Tailwind CSS. My journey started with curiosity, turned into consistent coding, and now drives my passion for building meaningful digital experiences.",
+  "paragraphs": [
+    "In my current role, I’ve built reusable component libraries, integrated APIs, debugged complex issues, and optimized UI performance across multiple client-facing projects. I'm especially strong in JavaScript and love finding the cleanest, most efficient solution to a problem.",
+    "I take pride in writing clean, maintainable code and staying up-to-date with best practices. Whether it's building a finance dashboard, a job automation tool, or a custom ROI calculator, I always aim for user-friendly interfaces and responsive designs.",
+    "Outside of coding, I’m self-motivated and constantly learning — right now I’m leveling up my skills to break into a higher package role. I’m not afraid to get my hands dirty, explore DevOps, or automate a few things if it helps the project scale."
+  ],
+  "technologies": [
+    "React", "JavaScript", "Tailwind CSS", "Vite", "Bootstrap", "HTML5", "CSS3",
+    "Git", "REST APIs", "Postman", "VSCode", "Debugging", "Performance Optimization"
+  ]
+      }
+  
+},
+    "experience": {
+      "title": "Experience",
+      "content": [
+        {
+          "company": "Company Name",
+          "role": "Frontend Developer",
+          "duration": "Month Year – Present",
+          "location": "City, Country",
+          "contributions": [
+            "Developed and maintained core components of product/platform",
+            "Translated Figma/UX designs into responsive React components",
+            "Worked with state management (Redux/Context API)",
+            "Improved page performance and load times by X%",
+            "Collaborated across teams using Git, Agile, Jira"
+          ]
+        }
+      ]
+    },
+    "skills": {
+      "title": "Skills",
+      "content": {
+        "frontend": ["HTML", "CSS", "JavaScript", "React", "Tailwind", "Bootstrap"],
+        "tools": ["Git", "VSCode", "Chrome DevTools", "Postman"],
+        "others": ["REST APIs", "Responsive Design", "Performance Optimization"]
+      }
+    },
+    "education": {
+      "title": "Education",
+      "content": {
+        "degree": "B.Tech in Computer Science Engineering",
+        "university": "University Name, City",
+        "year": "Year of Graduation"
+      }
+    },
+    "certifications": {
+      "title": "Certifications",
+      "content": [
+        { "name": "Frontend Developer Bootcamp", "platform": "Platform" },
+        { "name": "JavaScript Fundamentals", "platform": "Platform" }
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "content": {
+        "email": "your.email@example.com",
+        "linkedin": "#",
+        "github": "#",
+        "location": "City, Country",
+        "form": {
+          "name": "",
+          "email": "",
+          "message": ""
+        }
+      }
+    }
+  },
+  "ui": {
+    "darkMode": true,
+    "transition": {
+      "duration": 500,
+      "easing": "ease-in-out"
+    }
+  }
+}
